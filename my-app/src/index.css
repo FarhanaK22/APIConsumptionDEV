@@ -17,6 +17,8 @@ code {
   margin: 10px;
   border-radius: 8px;
   color: #006064;
+  height: 200px;
+  overflow-y: scroll;
 }
 .post-info {
   background-color: #f1f8e9;
@@ -24,6 +26,8 @@ code {
   margin: 10px;
   border-radius: 8px;
   color: #33691e;
+  height: 200px;
+  overflow-y: scroll;
 }
 .put-info {
   background-color: #fff3e0;
@@ -31,6 +35,8 @@ code {
   margin: 10px;
   border-radius: 8px;
   color: #e65100;
+  height: 200px;
+  overflow-y: scroll;
 }
 .delete-info {
   background-color: #ffebee;
@@ -38,4 +44,6 @@ code {
   margin: 10px;
   border-radius: 8px;
   color: #b71c1c;
+  height: 200px;
+  overflow-y: scroll;
 }
